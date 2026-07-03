@@ -1,18 +1,18 @@
 # Change baseurl before deploy
-baseurl = "https://starter.stack.cai.im/"
-locale  = "en-us"
-title   = "Hugo Theme Stack Starter"
+baseurl = "https://gabrielabarrence.github.io/"
+locale  = "pt-br"
+title   = "Gabriela Barrence"
 
 # Theme i18n support
 # See all available values at https://github.com/CaiJimmy/hugo-theme-stack/tree/master/i18n
-defaultContentLanguage = "en"
+defaultContentLanguage = "pt-br"
 
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
 hasCJKLanguage = false
 
 # Change it to your Disqus shortname before using
-disqusShortname = "hugo-theme-stack"
+# disqusShortname = "gabrielabarrence"
 
 [pagination]
     pagerSize = 5

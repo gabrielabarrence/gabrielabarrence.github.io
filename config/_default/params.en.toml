@@ -19,7 +19,7 @@ SortBy              = "default"
 
 [sidebar]
     emoji    = "🌻"
-    subtitle = "'Mais uma vez, cheguei à minha conclusão habitual: é preciso se educar.' - Persepolis"
+    subtitle = "'Once again, I arrived at my usual conclusion: one must educate oneself.' - Persepolis"
     avatar   = "img/avatar.png"
 
 [article]

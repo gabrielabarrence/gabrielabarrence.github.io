@@ -1,7 +1,7 @@
 ---
 menu:
     main:
-        name: Início
+        name: Home
         weight: 1
         params:
             icon: home
