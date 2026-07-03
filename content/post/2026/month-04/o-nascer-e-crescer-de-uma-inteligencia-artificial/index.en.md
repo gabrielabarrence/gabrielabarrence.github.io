@@ -5,14 +5,12 @@ date: 2026-04-28 00:00:00+0000
 image: o-nascer-e-crescer-de-uma-inteligencia-artificial.jpeg
 categories:
   - blog
-  - data-science
-  - design
-  - photography
 tags:
   - study
   - ia
   - machine-learning
   - data-science
+weight: 1
 ---
 
 Esses dias meu pai me presenteou com o livro *Uma Biografia da Depressão*, do Christian Dunker. Nele, somos apresentados à depressão como um objeto de estudo que nasce, vive e morre; quando foram seus primeiros diagnósticos, quem são suas “irmãs mais velhas” (melancolia e angústia), e até mesmo elabora uma “entrevista” com a depressão para um entendimento ainda mais lúdico. Ótimo livro, recomendo.
